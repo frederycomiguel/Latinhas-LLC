@@ -46,6 +46,12 @@ Isso mostrará os containers em execução.
 
 ## Tecnologias Utilizadas
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,next,redux,nodejs,sqlite" />
+  </a>
+</p>
+
 **Front-end:** 🔵 React.js (latest) 🔵 Next.js (latest) 🔵Redux(latest)
 
 **Back-end:** 🟢 Node.js (v14) 🔵 SQLite (latest)
