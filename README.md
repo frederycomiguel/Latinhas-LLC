@@ -57,27 +57,6 @@ Isso mostrará os containers em execução.
 **Back-end:** 🟢 Node.js (v14) 🔵 SQLite (latest)
 
 
-## Estrutura do Projeto
-
-```bash
-latinhas-llc/
-|-- backend/
-|   |-- Dockerfile
-|   |-- server.js
-|-- frontend/
-|   |-- Dockerfile.frontend
-|   |-- package.json
-|   |-- pages/
-|   |   |-- index.js
-|   |-- redux/
-|   |   |-- actions/
-|   |   |   |-- demandsActions.js
-|   |   |-- reducers/
-|   |   |   |-- demandsReducer.js
-|-- docker-compose.yml
-|-- package.json
-```
-
 ## Contribuição
 
 
