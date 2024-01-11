@@ -168,7 +168,7 @@ __pycache__
 # === Rules for C++ development ===
 compile_commands.json
 
-
+package-lock.json
 .DS_STORE
 node_modules
 scripts/flow/*/.flowconfig
