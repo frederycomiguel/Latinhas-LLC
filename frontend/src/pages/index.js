@@ -1,7 +1,11 @@
+// pages/index.js
 import React, { useState, useEffect } from 'react';
-import { useSelector, useDispatch, Provider  } from 'react-redux';
+import { useSelector, useDispatch } from 'react-redux';
 import { fetchDemands, createDemand, updateDemand, deleteDemand } from '../redux/actions/demandsActions';
 
+const initialState = {
+    description: '',
+};
 
 export default function Home() {
     const [form, setForm] = useState(initialState);
@@ -65,4 +69,4 @@ export default function Home() {
             </ul>
         </div>
     );
-};
+}
